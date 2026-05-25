@@ -2,7 +2,7 @@
 - 學號：25101105
 - 姓名：蔡凱宇
 - 班級：資管大一
-- 作品網址：https://s25101105-spec.github.io/portfolio
+- 作品網址：https://s25101105.github.io/portfolio
 - GitHub Repo：https://github.com/s25101105-spec/portfolio
 
 ## 📌 專題說明
