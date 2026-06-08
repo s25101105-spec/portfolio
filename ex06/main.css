@@ -28,7 +28,7 @@ table {
   border-spacing: 0;
 } 
 /* end reset browser styles */
-html {
+  html {
     background-color: rgb(253,248,171);
   }
   body {
